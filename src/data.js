@@ -28,7 +28,7 @@ export const featuredPortfolio = [
       id: 5,
       title: "Cocos2d-x",
       img:
-        "assets/csharp.png",
+        "",
     },
  
   ];
