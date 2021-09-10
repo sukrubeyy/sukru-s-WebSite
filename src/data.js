@@ -26,9 +26,9 @@ export const featuredPortfolio = [
     },
     {
       id: 5,
-      title: "Cocos2d-x",
+      title: "C-Sharp",
       img:
-        "",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/csharp.png",
     },
  
   ];
