@@ -26,9 +26,21 @@ export const featuredPortfolio = [
     },
     {
       id: 5,
-      title: "C-Sharp",
+      title: "HTML & CSS & JS",
       img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/csharp.png",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/htmlcssjs.png",
+    },
+    {
+      id: 6,
+      title: "C#",
+      img:
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/csharp2.png",
+    },
+    {
+      id: 7,
+      title: "C++",
+      img:
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/cpp.png",
     },
  
   ];
