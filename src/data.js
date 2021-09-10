@@ -24,6 +24,13 @@ export const featuredPortfolio = [
       img:
         "https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/cocosLOGOM.png",
     },
+    {
+      id: 5,
+      title: "Cocos2d-x",
+      img:
+        "assets/csharp.png",
+    },
+ 
   ];
 
   export const projectsPortfolio = [

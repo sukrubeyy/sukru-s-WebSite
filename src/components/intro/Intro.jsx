@@ -12,7 +12,7 @@ useEffect(()=>{
         backDelay:1500,
         backSpeed:50,
         showCursor:true,
-        strings: ['Game Developer','Unity','Unreal Engine 4', 'Cocos2d-X', 'Machine Learning','Basic 3D Modelling','Basic Discord Bot' ] })
+        strings: ['Game Developer','Unity','Unreal Engine 4', 'Cocos2d-X','Basic 3D Modelling','Basic Discord Bot' ] })
 },[])
 
 
@@ -21,7 +21,7 @@ useEffect(()=>{
         <div className="intro" id="intro">
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/suko.jpg" alt="" />
+                <img src="assets/suko.jpg" alt="" />
                 </div>
             </div>
             <div className="right">
