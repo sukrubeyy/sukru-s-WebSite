@@ -8,41 +8,22 @@ export const featuredPortfolio = [
 },
     {
       id: 2,
-      title: "Blender 2.8",
+      title: "Unity",
       img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/blender.png",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/Unity-Game-Engine-01.png",
     },
     {
       id: 3,
-      title: "Unity",
-      img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/unitylogo3.png",
-    },
-    {
-      id: 4,
       title: "Cocos2d-x",
       img:
         "https://raw.githubusercontent.com/sukrubeyy/sukrubeyy/main/cocosLOGOM.png",
     },
     {
-      id: 5,
-      title: "HTML & CSS & JS",
+      id: 4,
+      title: "C,C#,C++",
       img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/htmlcssjs.png",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/c_family-removebg-preview.png",
     },
-    {
-      id: 6,
-      title: "C#",
-      img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/csharp2.png",
-    },
-    {
-      id: 7,
-      title: "C++",
-      img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/cpp.png",
-    },
- 
   ];
 
   export const projectsPortfolio = [
