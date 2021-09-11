@@ -10,7 +10,7 @@ export const featuredPortfolio = [
       id: 2,
       title: "Unity",
       img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/Unity-Game-Engine-01.png",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/Unity_Logo.png",
     },
     {
       id: 3,
