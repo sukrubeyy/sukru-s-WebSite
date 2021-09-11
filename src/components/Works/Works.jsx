@@ -7,7 +7,7 @@ export default function Works() {
     const data = [
         {
             id: "1",
-            icon: "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/down.png",
+            icon: "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/dsc_icon.png",
             title: "DSC Team",
             desc:
                 "Developer Student Clubs Design Team",

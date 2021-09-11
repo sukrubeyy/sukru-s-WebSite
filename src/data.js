@@ -22,7 +22,19 @@ export const featuredPortfolio = [
       id: 4,
       title: "C,C#,C++",
       img:
-        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/c_family-removebg-preview.png",
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/Cs_Logo.png",
+    },
+    {
+      id: 5,
+      title: "Html & Css & JS",
+      img:
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/WebDev_Logo.png",
+    },
+    {
+      id: 6,
+      title: "Python",
+      img:
+        "https://raw.githubusercontent.com/sukrubeyy/sukru-s-WebSite/master/public/assets/Python_Logo.png",
     },
   ];
 
